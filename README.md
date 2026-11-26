@@ -41,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1325-delete-leaves-with-a-given-value](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/1325-delete-leaves-with-a-given-value) |
+## Math
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/3360-stone-removal-game) |
+## Simulation
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->

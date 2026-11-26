@@ -29,4 +29,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0140-word-break-ii) |
+## Tree
+|  |
+| ------- |
+| [1325-delete-leaves-with-a-given-value](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/1325-delete-leaves-with-a-given-value) |
+## Depth-First Search
+|  |
+| ------- |
+| [1325-delete-leaves-with-a-given-value](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/1325-delete-leaves-with-a-given-value) |
+## Binary Tree
+|  |
+| ------- |
+| [1325-delete-leaves-with-a-given-value](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/1325-delete-leaves-with-a-given-value) |
 <!---LeetCode Topics End-->

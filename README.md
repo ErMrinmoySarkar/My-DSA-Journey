@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0695-max-area-of-island) |
 | [0973-k-closest-points-to-origin](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0973-k-closest-points-to-origin) |
 | [0997-find-the-town-judge](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0997-find-the-town-judge) |
+| [1200-minimum-absolute-difference](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/1200-minimum-absolute-difference) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Hash Table
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0646-maximum-length-of-pair-chain) |
 | [0973-k-closest-points-to-origin](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0973-k-closest-points-to-origin) |
+| [1200-minimum-absolute-difference](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/1200-minimum-absolute-difference) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Heap (Priority Queue)
 |  |

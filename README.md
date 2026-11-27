@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0140-word-break-ii) |
 | [0200-number-of-islands](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0695-max-area-of-island) |
+| [0973-k-closest-points-to-origin](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0973-k-closest-points-to-origin) |
 | [0997-find-the-town-judge](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0997-find-the-town-judge) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Hash Table
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0973-k-closest-points-to-origin) |
 | [3360-stone-removal-game](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/3360-stone-removal-game) |
 ## Simulation
 |  |
@@ -91,4 +93,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0997-find-the-town-judge) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0973-k-closest-points-to-origin) |
+## Sorting
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0973-k-closest-points-to-origin) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->

@@ -9,10 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0140-word-break-ii) |
 ## String
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0140-word-break-ii) |
 ## Dynamic Programming
 |  |
@@ -55,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/3946-maximum-number-of-items-from-sale-i) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0127-word-ladder) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->

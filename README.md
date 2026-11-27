@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0140-word-break-ii) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Backtracking
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0111-minimum-depth-of-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -50,11 +52,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0695-max-area-of-island) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0111-minimum-depth-of-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Math
 |  |
 | ------- |
@@ -117,4 +121,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0973-k-closest-points-to-origin) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 <!---LeetCode Topics End-->

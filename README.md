@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0140-word-break-ii) |
+| [0146-lru-cache](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0146-lru-cache) |
 | [0652-find-duplicate-subtrees](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0652-find-duplicate-subtrees) |
 | [0997-find-the-town-judge](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0997-find-the-town-judge) |
 ## String
@@ -189,4 +190,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->

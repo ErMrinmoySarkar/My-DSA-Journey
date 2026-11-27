@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0965-univalued-binary-tree) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/1382-balance-a-binary-search-tree) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0695-max-area-of-island) |
 | [0938-range-sum-of-bst](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0965-univalued-binary-tree) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/1382-balance-a-binary-search-tree) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0965-univalued-binary-tree) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/1382-balance-a-binary-search-tree) |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0226-invert-binary-tree) |
 | [0695-max-area-of-island](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0695-max-area-of-island) |
 | [0965-univalued-binary-tree](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0965-univalued-binary-tree) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Bidirectional Search

@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0695-max-area-of-island) |
 | [0973-k-closest-points-to-origin](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0973-k-closest-points-to-origin) |
 | [0997-find-the-town-judge](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0997-find-the-town-judge) |
+| [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Hash Table
 |  |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0938-range-sum-of-bst) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/1382-balance-a-binary-search-tree) |
+| [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
 ## DP on Trees
 |  |
 | ------- |
@@ -264,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0145-binary-tree-postorder-traversal) |
+## Ordered Set
+|  |
+| ------- |
+| [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
 <!---LeetCode Topics End-->

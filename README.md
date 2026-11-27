@@ -40,16 +40,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0111-minimum-depth-of-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0695-max-area-of-island) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Binary Tree
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0111-minimum-depth-of-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Math
 |  |
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0695-max-area-of-island) |

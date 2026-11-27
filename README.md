@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0140-word-break-ii) |
 | [0146-lru-cache](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0146-lru-cache) |
+| [0387-first-unique-character-in-a-string](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0652-find-duplicate-subtrees](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0652-find-duplicate-subtrees) |
 | [0997-find-the-town-judge](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0997-find-the-town-judge) |
 ## String
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0140-word-break-ii) |
 | [0257-binary-tree-paths](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0257-binary-tree-paths) |
+| [0387-first-unique-character-in-a-string](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -313,4 +316,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0239-sliding-window-maximum) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->

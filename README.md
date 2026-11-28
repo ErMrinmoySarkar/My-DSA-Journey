@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0503-next-greater-element-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0646-maximum-length-of-pair-chain) |
 | [0695-max-area-of-island](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0695-max-area-of-island) |
+| [0912-sort-an-array](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0973-k-closest-points-to-origin) |
 | [0997-find-the-town-judge](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0997-find-the-town-judge) |
 | [1200-minimum-absolute-difference](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/1200-minimum-absolute-difference) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0912-sort-an-array](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0973-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/1382-balance-a-binary-search-tree) |
 ## Geometry
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0646-maximum-length-of-pair-chain) |
+| [0912-sort-an-array](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0973-k-closest-points-to-origin) |
 | [1200-minimum-absolute-difference](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/1200-minimum-absolute-difference) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0239-sliding-window-maximum) |
+| [0912-sort-an-array](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0973-k-closest-points-to-origin) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [3947-maximum-number-of-items-from-sale-ii](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/3947-maximum-number-of-items-from-sale-ii) |
@@ -428,4 +432,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0078-subsets) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->

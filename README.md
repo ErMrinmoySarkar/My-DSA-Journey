@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0136-single-number](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0136-single-number) |
 | [0140-word-break-ii](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0140-word-break-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0200-number-of-islands) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0089-gray-code) |
+| [0136-single-number](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0287-find-the-duplicate-number) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |

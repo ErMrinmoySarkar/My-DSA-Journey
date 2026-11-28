@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0046-permutations) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0142-linked-list-cycle-ii) |

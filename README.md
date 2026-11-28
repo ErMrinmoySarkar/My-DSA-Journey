@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0140-word-break-ii) |
 | [0257-binary-tree-paths](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0257-binary-tree-paths) |
+| [0344-reverse-string](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0394-decode-string) |
 ## Dynamic Programming
@@ -357,4 +358,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0020-valid-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->

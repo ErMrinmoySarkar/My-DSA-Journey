@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0140-word-break-ii) |
 | [0146-lru-cache](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0387-first-unique-character-in-a-string](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0652-find-duplicate-subtrees](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0652-find-duplicate-subtrees) |
 | [0997-find-the-town-judge](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0997-find-the-town-judge) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 ## Design
 |  |
 | ------- |
@@ -361,5 +363,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0344-reverse-string](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->

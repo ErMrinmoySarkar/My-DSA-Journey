@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2596-check-knight-tour-configuration](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/2596-check-knight-tour-configuration) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
+| [2965-find-missing-and-repeated-values](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/2965-find-missing-and-repeated-values) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [3947-maximum-number-of-items-from-sale-ii](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Hash Table
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0652-find-duplicate-subtrees) |
 | [0997-find-the-town-judge](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0997-find-the-town-judge) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0973-k-closest-points-to-origin) |
+| [2965-find-missing-and-repeated-values](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/2965-find-missing-and-repeated-values) |
 | [3360-stone-removal-game](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/3360-stone-removal-game) |
 ## Simulation
 |  |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0695-max-area-of-island) |
 | [2596-check-knight-tour-configuration](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/2596-check-knight-tour-configuration) |
+| [2965-find-missing-and-repeated-values](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/2965-find-missing-and-repeated-values) |
 ## Graph Theory
 |  |
 | ------- |

@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0088-merge-sorted-array) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0088-merge-sorted-array) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0646-maximum-length-of-pair-chain) |
 | [0912-sort-an-array](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0912-sort-an-array) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0142-linked-list-cycle-ii) |
@@ -483,4 +486,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0912-sort-an-array) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0322-coin-change) |
 | [0503-next-greater-element-ii](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0503-next-greater-element-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0646-maximum-length-of-pair-chain) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0287-find-the-duplicate-number](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0450-delete-node-in-a-bst](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -447,12 +449,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0344-reverse-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0287-find-the-duplicate-number) |
 ## Algorithm X
 |  |
 | ------- |
@@ -469,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0089-gray-code) |
 | [0231-power-of-two](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0287-find-the-duplicate-number) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Merge Sort
 |  |
@@ -494,4 +499,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0075-sort-colors) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->

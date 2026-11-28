@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0053-maximum-subarray) |
+| [0059-spiral-matrix-ii](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0078-subsets) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0059-spiral-matrix-ii) |
 | [2596-check-knight-tour-configuration](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/2596-check-knight-tour-configuration) |
 | [3360-stone-removal-game](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/3360-stone-removal-game) |
 ## Greedy
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0037-sudoku-solver) |
+| [0059-spiral-matrix-ii](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0695-max-area-of-island) |

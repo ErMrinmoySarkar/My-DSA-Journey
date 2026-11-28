@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0140-word-break-ii) |
 | [0162-find-peak-element](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0239-sliding-window-maximum) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0652-find-duplicate-subtrees](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0652-find-duplicate-subtrees) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0973-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/1382-balance-a-binary-search-tree) |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0217-contains-duplicate) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0646-maximum-length-of-pair-chain) |
 | [0912-sort-an-array](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0912-sort-an-array) |
@@ -430,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Monotonic Stack
@@ -523,4 +528,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0287-find-the-duplicate-number) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

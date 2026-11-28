@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0084-largest-rectangle-in-histogram) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0037-sudoku-solver) |
+| [0074-search-a-2d-matrix](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0695-max-area-of-island) |
 | [2596-check-knight-tour-configuration](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/2596-check-knight-tour-configuration) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0074-search-a-2d-matrix) |
 | [0098-validate-binary-search-tree](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |

@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1382-balance-a-binary-search-tree](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/1382-balance-a-binary-search-tree) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -216,12 +218,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/1200-minimum-absolute-difference) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0239-sliding-window-maximum) |
 | [0973-k-closest-points-to-origin](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0973-k-closest-points-to-origin) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Quickselect
 |  |
 | ------- |

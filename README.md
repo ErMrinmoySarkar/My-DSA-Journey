@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0394-decode-string) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0089-gray-code) |
 | [0140-word-break-ii](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0140-word-break-ii) |
 | [0257-binary-tree-paths](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0257-binary-tree-paths) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Trie
 |  |
 | ------- |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0089-gray-code) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Merge Sort
 |  |
 | ------- |

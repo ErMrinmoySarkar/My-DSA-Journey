@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0011-container-with-most-water) |
+| [0033-search-in-rotated-sorted-array](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0051-n-queens) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0098-validate-binary-search-tree](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |

@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0011-container-with-most-water) |
 | [0037-sudoku-solver](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0051-n-queens) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0052-n-queens-ii) |
 | [0140-word-break-ii](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0140-word-break-ii) |

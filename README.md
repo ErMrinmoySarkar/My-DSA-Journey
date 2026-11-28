@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0841-keys-and-rooms](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0997-find-the-town-judge) |
+| [1791-find-center-of-star-graph](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/1791-find-center-of-star-graph) |
 ## Divide and Conquer
 |  |
 | ------- |

@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0997-find-the-town-judge) |
 | [1200-minimum-absolute-difference](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/1200-minimum-absolute-difference) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [2596-check-knight-tour-configuration](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/2596-check-knight-tour-configuration) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [3947-maximum-number-of-items-from-sale-ii](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/3947-maximum-number-of-items-from-sale-ii) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/1382-balance-a-binary-search-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [2596-check-knight-tour-configuration](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/2596-check-knight-tour-configuration) |
 ## Binary Tree
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2596-check-knight-tour-configuration](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/2596-check-knight-tour-configuration) |
 | [3360-stone-removal-game](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/3360-stone-removal-game) |
 ## Greedy
 |  |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [2596-check-knight-tour-configuration](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/2596-check-knight-tour-configuration) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -208,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0695-max-area-of-island) |
+| [2596-check-knight-tour-configuration](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/2596-check-knight-tour-configuration) |
 ## Graph Theory
 |  |
 | ------- |

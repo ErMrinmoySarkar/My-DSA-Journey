@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0140-word-break-ii) |
 | [0146-lru-cache](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0146-lru-cache) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0140-word-break-ii) |
 | [0257-binary-tree-paths](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0257-binary-tree-paths) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |

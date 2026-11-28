@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0071-simplify-path](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0071-simplify-path) |
 | [0127-word-ladder](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0140-word-break-ii) |
 | [0257-binary-tree-paths](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0257-binary-tree-paths) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0144-binary-tree-preorder-traversal) |

@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0503-next-greater-element-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0646-maximum-length-of-pair-chain) |
 | [0695-max-area-of-island](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0695-max-area-of-island) |
+| [0704-binary-search](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0973-k-closest-points-to-origin) |
 | [0997-find-the-town-judge](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0997-find-the-town-judge) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0704-binary-search](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0704-binary-search) |
 | [0938-range-sum-of-bst](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0938-range-sum-of-bst) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/1382-balance-a-binary-search-tree) |

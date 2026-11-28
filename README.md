@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0997-find-the-town-judge) |
 | [1200-minimum-absolute-difference](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/1200-minimum-absolute-difference) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2596-check-knight-tour-configuration](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/2596-check-knight-tour-configuration) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/3946-maximum-number-of-items-from-sale-i) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0652-find-duplicate-subtrees](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0652-find-duplicate-subtrees) |
 | [0997-find-the-town-judge](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0997-find-the-town-judge) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/1394-find-lucky-integer-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Monotonic Stack
 |  |
 | ------- |

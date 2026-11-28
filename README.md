@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0011-container-with-most-water) |
+| [0037-sudoku-solver](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0037-sudoku-solver) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0140-word-break-ii](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0140-word-break-ii) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0037-sudoku-solver) |
 | [0127-word-ladder](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0141-linked-list-cycle) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0037-sudoku-solver) |
 | [0140-word-break-ii](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0140-word-break-ii) |
 | [0257-binary-tree-paths](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0257-binary-tree-paths) |
 ## Trie
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0037-sudoku-solver) |
 | [0200-number-of-islands](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0695-max-area-of-island) |
 | [2596-check-knight-tour-configuration](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/2596-check-knight-tour-configuration) |
@@ -401,4 +405,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0142-linked-list-cycle-ii) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->

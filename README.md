@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0322-coin-change) |
+| [0503-next-greater-element-ii](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0503-next-greater-element-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0646-maximum-length-of-pair-chain) |
 | [0695-max-area-of-island](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0695-max-area-of-island) |
 | [0973-k-closest-points-to-origin](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0973-k-closest-points-to-origin) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0394-decode-string) |
+| [0503-next-greater-element-ii](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0503-next-greater-element-ii) |
 ## Ordered Set
 |  |
 | ------- |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0084-largest-rectangle-in-histogram) |
+| [0503-next-greater-element-ii](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0503-next-greater-element-ii) |
 ## Recursion
 |  |
 | ------- |

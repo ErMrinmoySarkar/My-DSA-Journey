@@ -1,0 +1,14 @@
+class Solution {
+    public int findCenter(int[][] edges) {
+        int a = edges[0][0];
+        int b = edges[0][1];
+        //a and b are the edges of frist edge
+        //a exist both edges so a
+        if(a == edges[1][0] || a == edges[1][1]){
+            return a;
+        }
+        else {
+            return b;
+        }
+    }
+}

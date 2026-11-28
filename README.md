@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0089-gray-code) |
+| [0231-power-of-two](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0231-power-of-two) |
 | [0973-k-closest-points-to-origin](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0973-k-closest-points-to-origin) |
 | [3360-stone-removal-game](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/3360-stone-removal-game) |
 ## Simulation
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0394-decode-string) |
 ## Bracket Sequences
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0089-gray-code) |
+| [0231-power-of-two](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/0231-power-of-two) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ErMrinmoySarkar/My-DSA-Journey/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Merge Sort
 |  |
